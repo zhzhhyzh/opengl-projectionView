@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\henry\source\repos\p5\p5\main.cpp(25,10): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\henry\source\repos\p5\p5\main.cpp(30,10): warning C4305: '+=': truncation from 'double' to 'float'
+  p5.vcxproj -> C:\Users\henry\source\repos\p5\x64\Debug\p5.exe
